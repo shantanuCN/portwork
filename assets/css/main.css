@@ -1228,6 +1228,10 @@
 			top: 0.5em;
 		}
 
+		.image.circled{
+			border-radius: 50%;
+		}
+
 		.image.centered {
 			display: block;
 			margin: 0 0 2em 0;
@@ -2506,5 +2510,6 @@
     	padding-left: 240px;
     	padding-bottom: 10px;
 	}
+
 
 	
